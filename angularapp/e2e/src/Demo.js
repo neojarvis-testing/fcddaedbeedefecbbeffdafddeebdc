@@ -4,4 +4,14 @@ Boolean
 function
 array.forEach(element => {
     
+
 });
+switch
+switch (key) {
+    case value:
+        
+        break;
+
+    default:
+        break;
+}
